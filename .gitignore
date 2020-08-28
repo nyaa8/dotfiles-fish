@@ -1,0 +1,6 @@
+completions
+conf.d
+
+functions/__ssh_agent_start.fish
+functions/__ssh_agent_is_started.fish
+functions/nvm.fish
