@@ -5,9 +5,7 @@ set __fish_git_prompt_color_dirtystate "red"
 
 export VISUAL="nvim"
 export EDITOR="nvim"
+export GPG_TTY=(tty)
 
 alias tmux="tmux -u"
 alias ls="exa --git"
-
-export GPG_TTY=(tty)
-
