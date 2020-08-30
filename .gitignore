@@ -1,4 +1,5 @@
 completions
+fish_variables
 conf.d
 
 functions/__ssh_agent_start.fish
